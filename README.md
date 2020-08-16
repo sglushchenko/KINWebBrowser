@@ -3,7 +3,7 @@ KINWebBrowser
 
 KINWebBrowser is a web browser module for your apps.
 
-Powered by [WKWebView](https://developer.apple.com/library/IOs/documentation/WebKit/Reference/WKWebView_Ref/index.html) on iOS 8. Backwards compatible with iOS 7 using [UIWebView](https://developer.apple.com/library/ios/documentation/Uikit/reference/UIWebView_Class/index.html).
+Powered by [WKWebView](https://developer.apple.com/library/IOs/documentation/WebKit/Reference/WKWebView_Ref/index.html) 
 
 ![KINWebBrowser Screenshots](http://i.imgur.com/z1jkWKG.png)
 
